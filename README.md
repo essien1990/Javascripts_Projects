@@ -1,1 +1,1 @@
-# Javascripts projects using Vanilla JS and CSS
+# Javascripts projects using HTML, Vanilla JS and CSS
