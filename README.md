@@ -1,4 +1,4 @@
-# Javascripts projects using HTML #Vanilla JS #CSS #https://cloudinary.com
+Javascripts #HTML #VanillaJS #CSS #https://cloudinary.com
 
 
 1- Modal App
